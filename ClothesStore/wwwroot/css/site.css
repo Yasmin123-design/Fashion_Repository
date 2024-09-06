@@ -1,0 +1,42 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.font-bold {
+    font-weight: bold;
+}
+.custom-navbar-bg {
+    background-color: #4CAF50; /* لون أخضر فاتح */
+}
+.custom-navbar-bg {
+    background-color: #6c757d; /* لون رمادي داكن */
+}
+.navbar-nav.ms-auto {
+    margin-left: auto;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 10px; /* لتباعد الروابط قليلاً */
+}
+
+    .navbar-nav .nav-item a {
+        text-align: right; /* محاذاة النص إلى اليمين */
+    }

@@ -1,0 +1,75 @@
+﻿<style>
+    .product-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* تغيير عدد الأعمدة وحجم العناصر */
+        gap: 15px; /* يمكنك تعديل المسافة بين العناصر حسب الحاجة */
+    }
+
+    .product-item {
+        display: flex;
+        flex-direction: column;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        overflow: hidden;
+    }
+
+    .thumbnail {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+    }
+
+        .thumbnail img {
+            width: 100%;
+            height: 200px; /* تحديد ارتفاع ثابت للصورة */
+            object-fit: cover; /* ضمان تغطية الصورة بالكامل */
+        }
+
+    .caption {
+        padding: 10px;
+    }
+</style>
+<div class="product-container">
+    @foreach (var item in Model)
+    {
+  @*       <div class="product-item" style="margin-bottom: 20px;">
+            <div class="thumbnail" style="position: relative;">
+                <img src="/Images/@item.Image" alt="@item.Name" class="img-responsive" style="height: 200px; width: 100%; object-fit: cover;" />
+            </div>
+            <div class="caption" style="padding: 10px;">
+                <h3 class="pull-right">@item.Price.ToString("c")</h3>
+                <h3>
+                    <a href="#">@item.Name</a>
+                </h3>
+                <p>@item.Description</p>
+                <div class="text-center">
+                    <form method="post" action="/ShoppingCart/AddToCart">
+                        <input type="hidden" name="productId" value="@item.ProductId" />
+                        <button type="submit" class="btn btn-primary btn-block">
+                            <i class="fa fa-shopping-cart"></i> Add to Cart
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div> *@
+        <div class="product-item">
+            <div class="thumbnail">
+                <img src="/Images/@item.Image" alt="@item.Name" />
+            </div>
+            <div class="caption">
+                <h3 class="pull-right">@item.Price.ToString("c")</h3>
+                <h3>
+                    <a>@item.Name</a>
+                </h3>
+                <p>@item.Description</p>
+                <td>
+                    <form action="/ShoppingCart/AddToCart?productid=@item.Id" method="post">
+                        <button class="" type="submit" style=" background-color: #ff5733; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">AddToCart</button>
+                    </form>
+                </td>
+            </div>
+        </div>
+    }
+</div>

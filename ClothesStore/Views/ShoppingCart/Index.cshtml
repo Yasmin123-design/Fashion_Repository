@@ -1,0 +1,45 @@
+﻿@model ShoppingCart
+
+<h2>Your Shopping Cart</h2>
+
+@if (Model.Items.Count == 0)
+{
+    <p>Your cart is empty.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td>@item.ItemName</td>
+                    <td>@item.Amount</td>
+                    <td>
+                        <form action="/ShoppingCart/RemoveFromCart?productid=@item.Id" method="post">
+                            <button class="btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <form action="/Home/Index" method="post">
+        <button style="background-color: blue; color: white;">Add More Products</button>
+    </form>
+    <br />
+    <form action="/Order/CheckOut" method="post">
+        <button style="background-color: blue; color: white;">Check Out</button>
+    </form>
+
+@*     <h2>@Model.Items.Count</h2> *@
+}
+

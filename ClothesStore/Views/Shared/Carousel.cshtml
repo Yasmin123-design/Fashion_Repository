@@ -1,0 +1,120 @@
+﻿
+
+<div class="row carousel-holder marginTop1">
+    <div class="col-md-12">
+        <div class="carousel-container d-flex align-items-center">
+            <a class="left carousel-control" href="javascript:void(0);" onclick="prevImage()" style="display: inline-block;">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            </a>
+            <div class="carousel-inner">
+                <div class="item active">
+                    <img class="slide-image" src="~/Images/cool_tshirt.jpeg" alt="">
+                </div>
+                <div class="item">
+                    <img class="slide-image" src="~/Images/slim_fit_jeans.jpeg" alt="">
+                </div>
+                <div class="item">
+                    <img class="slide-image" src="~/Images/cargo_pants.jpeg" alt="">
+                </div>
+                <div class="item">
+                    <img class="slide-image" src="~/Images/casual_shorts.jpeg" alt="">
+                </div>
+                <div class="item">
+                    <img class="slide-image" src="~/Images/designer_belt.jpeg" alt="">
+                </div>
+                <div class="item">
+                    <img class="slide-image" src="~/Images/elegant_scarf.jpeg" alt="">
+                </div>
+                <div class="item">
+                    <img class="slide-image" src="~/Images/graphic_tshirt.jpeg" alt="">
+                </div>
+                <div class="item">
+                    <img class="slide-image" src="~/Images/leather_wallet.jpeg" alt="">
+                </div>
+                <div class="item">
+                    <img class="slide-image" src="~/Images/sports_shorts.jpeg" alt="">
+                </div>
+                <div class="item">
+                    <img class="slide-image" src="~/Images/sunglasses.jpeg" alt="">
+                </div>
+               
+            </div>
+            <a class="right carousel-control" href="javascript:void(0);" onclick="nextImage()" style="display: inline-block;">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            </a>
+        </div>
+    </div>
+</div>
+
+<script>
+    let currentIndex = 0;
+
+    function showImage(index) {
+        const items = document.querySelectorAll('.carousel-inner .item');
+        items.forEach(item => item.classList.remove('active'));
+        items[index].classList.add('active');
+    }
+
+    function prevImage() {
+        const items = document.querySelectorAll('.carousel-inner .item');
+        currentIndex = (currentIndex - 1 + items.length) % items.length;
+        showImage(currentIndex);
+    }
+
+    function nextImage() {
+        const items = document.querySelectorAll('.carousel-inner .item');
+        currentIndex = (currentIndex + 1) % items.length;
+        showImage(currentIndex);
+    }
+</script>
+
+<style>
+    .carousel-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+    }
+
+    .carousel-inner {
+        display: flex;
+        overflow: hidden;
+        width: 80%;
+        position: relative;
+    }
+
+        .carousel-inner .item {
+            display: none;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+        }
+
+            .carousel-inner .item.active {
+                display: flex;
+            }
+
+    .slide-image {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .carousel-control {
+        cursor: pointer;
+        font-size: 24px;
+        color: #333;
+        text-decoration: none;
+        z-index: 2;
+    }
+
+    .left.carousel-control {
+        left: 10px;
+    }
+
+    .right.carousel-control {
+        right: 10px;
+    }
+</style>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>

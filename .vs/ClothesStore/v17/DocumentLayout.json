@@ -1,0 +1,1060 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\views\\shared\\components\\categorymenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\shared\\components\\categorymenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\viewmodel\\productwithcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\viewmodel\\productwithcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\migrations\\20240905194947_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\migrations\\20240905194947_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\clothesstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\clothesstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\models\\clothescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\models\\clothescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\views\\order\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\order\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\services\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\services\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240905180559_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothesStore\\Migrations\\20240905180559_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\clothesstore\\clothesstore\\views\\shared\\listpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\shared\\listpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\views\\product\\listbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\product\\listbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\migrations\\20240902161349_insert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\migrations\\20240902161349_insert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240905132848_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothesStore\\Migrations\\20240905132848_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\components\\categorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\components\\categorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\views\\product\\preferedproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\product\\preferedproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\views\\shared\\carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\shared\\carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\clothesstore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\clothesstore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\migrations\\clothescontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\migrations\\clothescontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\migrations\\20240902152515_yasmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\migrations\\20240902152515_yasmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902144536_bbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:ClothesStore\\Migrations\\20240902144536_bbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902153249_load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothesStore\\Migrations\\20240902153249_load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902150821_vbjk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothesStore\\Migrations\\20240902150821_vbjk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902150745_oooooooooooooooo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothesStore\\Migrations\\20240902150745_oooooooooooooooo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902150458_cccccccc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothesStore\\Migrations\\20240902150458_cccccccc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902143057_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothesStore\\Migrations\\20240902143057_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\clothesstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{016E44F8-D4F4-45C9-B165-901C735B871A}|ClothesStore\\ClothesStore.csproj|solutionrelative:clothesstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\gitignore.txt",
+              "RelativeDocumentMoniker": "ClothesStore\\gitignore.txt",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\gitignore.txt",
+              "RelativeToolTip": "ClothesStore\\gitignore.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-06T00:29:50.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240905194947_user.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240905194947_user.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Migrations\\20240905194947_user.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240905194947_user.cs",
+              "RelativeToolTip": "ClothesStore\\Migrations\\20240905194947_user.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:49:47.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ClothesStore\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:47:31.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T17:23:40.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:17:29.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T23:37:33.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Program.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Program.cs",
+              "RelativeToolTip": "ClothesStore\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAD8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:54:46.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:40:15.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T15:44:07.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T15:52:31.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ClothesStore\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ClothesStore\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-03T16:31:14.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ClothesStore\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:55:20.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\ViewModel\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\ViewModel\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\ViewModel\\RegisterVM.cs",
+              "RelativeToolTip": "ClothesStore\\ViewModel\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:59:58.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\ViewModel\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\ViewModel\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\ViewModel\\LoginVM.cs",
+              "RelativeToolTip": "ClothesStore\\ViewModel\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:08:08.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductWithCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\ViewModel\\ProductWithCategoryVM.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\ViewModel\\ProductWithCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\ViewModel\\ProductWithCategoryVM.cs",
+              "RelativeToolTip": "ClothesStore\\ViewModel\\ProductWithCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:44:27.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ClothesStore\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:06:48.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Services\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Services\\ShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Services\\ShoppingCartService.cs",
+              "RelativeToolTip": "ClothesStore\\Services\\ShoppingCartService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:31:44.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClothesStore.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\ClothesStore.csproj",
+              "RelativeDocumentMoniker": "ClothesStore\\ClothesStore.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\ClothesStore.csproj",
+              "RelativeToolTip": "ClothesStore\\ClothesStore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T13:40:27.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "ClothesStore\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:23:13.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClothesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\ClothesContext.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Models\\ClothesContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\ClothesContext.cs",
+              "RelativeToolTip": "ClothesStore\\Models\\ClothesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:43:13.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "ClothesStore\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:15:01.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CheckOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Order\\CheckOut.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Order\\CheckOut.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Order\\CheckOut.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Order\\CheckOut.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:07:34.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\Order.cs",
+              "RelativeToolTip": "ClothesStore\\Models\\Order.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:00:33.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CheckOutComplete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Order\\CheckOutComplete.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Order\\CheckOutComplete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Order\\CheckOutComplete.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Order\\CheckOutComplete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:51:13.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ClothesStore\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:55:18.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Models\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\ShoppingCartItem.cs",
+              "RelativeToolTip": "ClothesStore\\Models\\ShoppingCartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:21:34.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "ClothesStore\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:27:01.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "ClothesStore\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:31:15.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "ClothesStore\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:32:16.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Repository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "ClothesStore\\Repository\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:14:22.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "ClothesStore\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:32:39.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ClothesStore\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:30:58.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240905180559_order.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240905180559_order.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Migrations\\20240905180559_order.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240905180559_order.cs",
+              "RelativeToolTip": "ClothesStore\\Migrations\\20240905180559_order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:05:59.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "ClothesStore\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:00:56.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\Product.cs",
+              "RelativeToolTip": "ClothesStore\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:24:23.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T16:57:49.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ListPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Shared\\ListPartial.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Shared\\ListPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Shared\\ListPartial.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Shared\\ListPartial.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwEAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T13:19:40.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ListByCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Product\\ListByCategory.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Product\\ListByCategory.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Product\\ListByCategory.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Product\\ListByCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T13:54:48.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240902161349_insert.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902161349_insert.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Migrations\\20240902161349_insert.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902161349_insert.cs",
+              "RelativeToolTip": "ClothesStore\\Migrations\\20240902161349_insert.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:13:49.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240905132848_shoppingcart.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240905132848_shoppingcart.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Migrations\\20240905132848_shoppingcart.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240905132848_shoppingcart.cs",
+              "RelativeToolTip": "ClothesStore\\Migrations\\20240905132848_shoppingcart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:28:48.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoryMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Components\\CategoryMenu.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Components\\CategoryMenu.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Components\\CategoryMenu.cs",
+              "RelativeToolTip": "ClothesStore\\Components\\CategoryMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:40:24.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClothesStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:46:49.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T16:04:41.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PreferedProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Product\\PreferedProducts.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Product\\PreferedProducts.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Product\\PreferedProducts.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Product\\PreferedProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T23:35:32.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\ViewModel\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\ViewModel\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\ViewModel\\HomeVM.cs",
+              "RelativeToolTip": "ClothesStore\\ViewModel\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:52:26.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\Category.cs",
+              "RelativeToolTip": "ClothesStore\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:26:16.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Carousel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Shared\\Carousel.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Shared\\Carousel.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Shared\\Carousel.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Shared\\Carousel.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T23:38:35.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ClothesStore\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ClothesStore\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T23:50:10.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ClothesStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ClothesStore\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T17:31:00.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ClothesStore",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\ClothesStore.csproj",
+              "RelativeDocumentMoniker": "ClothesStore\\ClothesStore.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\ClothesStore.csproj",
+              "RelativeToolTip": "ClothesStore\\ClothesStore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T17:27:31.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240902152515_yasmin.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902152515_yasmin.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Migrations\\20240902152515_yasmin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902152515_yasmin.cs",
+              "RelativeToolTip": "ClothesStore\\Migrations\\20240902152515_yasmin.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:25:15.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ClothesContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\ClothesContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Migrations\\ClothesContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\ClothesContextModelSnapshot.cs",
+              "RelativeToolTip": "ClothesStore\\Migrations\\ClothesContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:21:25.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240902144536_bbb.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902144536_bbb.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Migrations\\20240902144536_bbb.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902144536_bbb.cs",
+              "RelativeToolTip": "ClothesStore\\Migrations\\20240902144536_bbb.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:45:36.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\DBInitializer.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Models\\DBInitializer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\DBInitializer.cs",
+              "RelativeToolTip": "ClothesStore\\Models\\DBInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:21:28.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240902153249_load.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902153249_load.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Migrations\\20240902153249_load.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902153249_load.cs",
+              "RelativeToolTip": "ClothesStore\\Migrations\\20240902153249_load.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:32:49.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240902150821_vbjk.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902150821_vbjk.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Migrations\\20240902150821_vbjk.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902150821_vbjk.cs",
+              "RelativeToolTip": "ClothesStore\\Migrations\\20240902150821_vbjk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:08:21.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240902150745_oooooooooooooooo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902150745_oooooooooooooooo.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Migrations\\20240902150745_oooooooooooooooo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902150745_oooooooooooooooo.cs",
+              "RelativeToolTip": "ClothesStore\\Migrations\\20240902150745_oooooooooooooooo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:07:46.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240902150458_cccccccc.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902150458_cccccccc.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Migrations\\20240902150458_cccccccc.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902150458_cccccccc.cs",
+              "RelativeToolTip": "ClothesStore\\Migrations\\20240902150458_cccccccc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:04:58.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ClothesStore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:38:38.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240902143057_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902143057_initial.cs",
+              "RelativeDocumentMoniker": "ClothesStore\\Migrations\\20240902143057_initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\Migrations\\20240902143057_initial.cs",
+              "RelativeToolTip": "ClothesStore\\Migrations\\20240902143057_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:30:57.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\appsettings.json",
+              "RelativeDocumentMoniker": "ClothesStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\ClothesStore\\ClothesStore\\appsettings.json",
+              "RelativeToolTip": "ClothesStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T13:56:43.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
